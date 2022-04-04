@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About this Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was a react web app I was practicing in. The main feature is the theme changer i.e., you can change the background to either light theme or dark theme.
 
 ## Available Scripts
 
