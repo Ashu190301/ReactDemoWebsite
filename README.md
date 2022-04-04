@@ -1,5 +1,5 @@
 # ReactDemoWebsite
--This is a react Website I was practicicng in. 
+-This is a demo portfolio react Webapp I was practicicng in. 
 -It is a single page website with darkmode lightmode feature.
 
 ## To-dos
