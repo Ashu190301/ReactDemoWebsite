@@ -9,9 +9,9 @@ function Toggle({ toggled, onClick }) {
     theme.dispatch({ type: "TOGGLE" });
   };
   return (
-    <div className="position">
+    <div className="position" onClick={handleClick}>
       <div onClick={onClick} className={`toggle${toggled ? " night" : ""}`}>
-        <div className="notch" onClick={handleClick}></div>
+        <div className="notch"></div>
         <div>
           <div className="shape sm" />
           <div className="shape sm" />
