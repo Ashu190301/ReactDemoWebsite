@@ -1,6 +1,6 @@
 .position {
-    padding-left: 900px;
     top: 10px;
+    left: 92%;
     position: fixed;
     z-index: 999;
 }
